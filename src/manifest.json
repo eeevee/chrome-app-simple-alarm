@@ -1,0 +1,11 @@
+{
+  "name": "Simple Alarm",
+  "description": "Teste de app no chrome",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"] 
+    }
+  },
+  "permissions": ["storage", "alarms", "notifications"]
+}

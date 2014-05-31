@@ -1,0 +1,13 @@
+- add the current time to input when open and when add a alarm
+- show the created alarms
+- can delete the created alarms
+- show image in alert
+- add sleep function to alarm
+- add a name to alarm
+- select the sound from list
+- import user song
+
+------------------------------------------------------
+DONE
+- play sound when notification
+- stop sound when the user close the notification
